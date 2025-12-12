@@ -1,3 +1,4 @@
+package ParkingLot;
 public class main {
 
     // ================= VEHICLE =================
